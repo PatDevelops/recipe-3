@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+/* The below css is strictly for the home page */
+.heading {
+  background-color: #2d2d2a;
+  color: white;
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 25px;
+  padding: 10px;
+}
+
+.body {
+  font-size: 22px;
+  background-color: #3f5e5a;
+  color: white;
+  text-align: center;
+  margin-bottom: 10px;
+  padding: 20px;
+}
+
+.links li {
+  display: inline-block;
+  margin: 0 5px;
+}
+
+.links {
+  text-align: center;
+}
+
+.links a {
+  text-decoration: none;
+  color: white;
+  font-weight: 700;
+}
+
+.links button {
+  padding: 8px;
+  background-color: #3f5e5a;
+}
+
+.bod1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+/* The above css is strictly for the homepage */
